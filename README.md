@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites, installation, along with OsTicket setu
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/R0cFU5XJScc)
+- ### [YouTube: How to create a Virtual Machine in Azure!](https://youtu.be/R0cFU5XJScc)
 
 <h2>Environments and Technologies Used</h2>
 
