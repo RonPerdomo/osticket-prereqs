@@ -37,7 +37,7 @@ After creating virtual machine and logging into it, these are the installation f
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/0872c6cc-339d-4ff5-83af-2d419857c8fb"/>
+<img src="https://github.com/user-attachments/assets/Full-Desktop/0872c6cc-339d-4ff5-83af-2d419857c8fb"/>
 </p>
 <p>
 OsTicket System successfully installed on virtual machine!
@@ -45,7 +45,7 @@ OsTicket System successfully installed on virtual machine!
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/85a27ab6-5f7c-4f36-b72a-f35df7eee960"/>
+<img src="https://github.com/user-attachments/assets/Full-Desktop/85a27ab6-5f7c-4f36-b72a-f35df7eee960"/>
 </p>
 <p>
 Created Support Staff Member. Here you can see access/permissions assigned to this members account.
@@ -54,7 +54,7 @@ Created Support Staff Member. Here you can see access/permissions assigned to th
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/65da0ea8-290e-4238-8f78-b806f8e52dee"/>
+<img src="https://github.com/user-attachments/assets/Full-Desktop/65da0ea8-290e-4238-8f78-b806f8e52dee"/>
 </p>
 <p>
 Created an organization and two users to simulate employees being added to the system. Passwords were also created for their accounts to be changed upon first login.
