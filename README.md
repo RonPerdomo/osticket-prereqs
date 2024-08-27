@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites, installation, along with OsTicket setu
 <h2>Screenshots of Notable Results</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/1466231a-bf9f-4636-b790-9ed7493933a8"/>
+<img src="Full-Desktop/https://github.com/user-attachments/assets/1466231a-bf9f-4636-b790-9ed7493933a8"/>
 </p>
 <p>
 After creating virtual machine and logging into it, these are the installation files needed for OsTicket software.
